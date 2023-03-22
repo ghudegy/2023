@@ -32,6 +32,26 @@ _최고 득점자: - (0분, 27903점)_
 _출제자: jh05013,_
 _최고 득점자: - (0분, 27902점)_
 
+> Bigint's really feel like a neat computer science toy most of the time. We've got them, but what actually uses integers larger than 64 or 128 bits?
+
+2020년에 1,000,000 자리 이상의 정수를 파싱하면 제곱 시간 알고리즘으로 인해 매우 오래 걸린다는 점이 보안 결함 목록(CVE)에 등록되었다. 그로부터 4년 후인 2022년, 파이썬이 긴급 패치되면서 4,300 자리보다 긴 정수를 파싱하려고 하면 오류를 내게 되었고, 이는 당시 큰 파장과 논란을 불러일으켰다.
+
+이 제한을 해제하려면 `sys.set_int_max_str_digits()`을 사용해야 한다.
+
+제목과 지문에 언급된 `CVE`, `4300`, `하위 호환성` 등의 키워드는 모두 이 사태에 대한 레퍼런스이다. 출제자도 과거에 몇 번 언급한 내용이기 때문에, 형평성을 위해 예제 2로부터 무언가 문제가 있음을 유추하게 하고, 관련 정보를 쉽게 찾을 수 있도록 지문을 작성하였다.
+
+BOJ에서는 (이 문제를 제외하고) 이 제한을 기본적으로 해제하기 때문에, 큰 수 A+B 등의 문제에 재채점이 진행되면서 대부분의 코드가 런타임 에러로 바뀌게 되는 일은 볼 수 없게 되었다.
+
+관련 링크:
+
+- [CVE-2020-10735](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10735)
+- [cpython issue #95778: CVE-2020-10735: Prevent DoS by large int<->str conversions](https://github.com/python/cpython/issues/95778)
+- [Python doc: Integer string conversion length limitation](https://docs.python.org/3.10/library/stdtypes.html#int-max-str-digits)
+- [Int/str conversions broken in latest Python bugfix releases](https://discuss.python.org/t/int-str-conversions-broken-in-latest-python-bugfix-releases/18889)
+- [sympy issue #24033: int/str conversions broken by latest CPython bugfix releases](https://github.com/sympy/sympy/issues/24033)
+- [A Python security fix breaks (some) bignums](https://lwn.net/Articles/907572/)
+- [cpython issue #96834: FAQ for CVE-2020-10735](https://github.com/python/cpython/issues/96834)
+
 ## 27901번. 사면수와 삼현수
 _출제자: jh05013,_
 _최고 득점자: - (0분, 27901점)_
