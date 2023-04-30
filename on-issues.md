@@ -22,7 +22,8 @@
 
 ### [27907](https://www.acmicpc.net/problem/27907). The primes contain arbitrarily long arithmetic progressions
 
-### [27906](https://www.acmicpc.net/problem/27906). 모자 퍼즐
+- 데이터
+  - 가능한 모든 데이터가 채점 데이터로 들어오므로 추가할 데이터가 없습니다.
 
 ### [27905](https://www.acmicpc.net/problem/27905). Bækj00n Online RPG
 
@@ -35,3 +36,6 @@
 ### [27901](https://www.acmicpc.net/problem/27901). 사면수와 삼현수
 
 ### [27900](https://www.acmicpc.net/problem/27900). 4차 산업 혁명 2
+
+- 데이터
+  - 지문에 테스트 케이스가 10개라고 명시되어 있으므로, 데이터 수정 및 추가 요청은 받지 않습니다.
