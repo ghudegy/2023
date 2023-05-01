@@ -10,7 +10,7 @@
 | [27904](https://www.acmicpc.net/problem/27904) | 키파-틱택토 | kipa00 | ✅ | ✅ | ✅ | ✅ |
 | [27903](https://www.acmicpc.net/problem/27903) | 인생 | havana723 | 🤔 | ❌ | ✅ | ✅ |
 | [27902](https://www.acmicpc.net/problem/27902) | CVE: Life is Way Too Short | jh05013 | 🤔 | 🤔 | ⬜️ | ✅ |
-| [27901](https://www.acmicpc.net/problem/27901) | 사면수와 삼현수 | jh05013 | ❌ | ✅ | ⬜️ | ✅ |
+| [27901](https://www.acmicpc.net/problem/27901) | 사면수와 삼현수 | jh05013 | 🤔 | ✅ | ⬜️ | ✅ |
 | [27900](https://www.acmicpc.net/problem/27900) | 4차 산업 혁명 2 | cozyyg | ✅ | ❌ | ✅ | ✅ |
 
 * ✅: 수정 요청이 있거나 수정이 필요한 상황이 있을 경우 검토 후 수정 진행.
@@ -64,7 +64,16 @@
 
 ### [27902](https://www.acmicpc.net/problem/27902). CVE: Life is Way Too Short
 
+- 지문
+  - 구대기의 메시지를 포함하여 지문 구성은 모두 의도되었습니다.
+  - 사소한 오타는 수정 가능합니다.
+- 데이터
+  - 특정 조건에서 출력을 하지 않아야 하는 점은 의도되었습니다.
+
 ### [27901](https://www.acmicpc.net/problem/27901). 사면수와 삼현수
+
+- 지문
+  - 메갈루젼 언어로 작성된 부분은 출제자가 직접 검토해야 합니다.
 
 ### [27900](https://www.acmicpc.net/problem/27900). 4차 산업 혁명 2
 
