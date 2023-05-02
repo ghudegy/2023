@@ -12,6 +12,7 @@
 | [27902](https://www.acmicpc.net/problem/27902) | CVE: Life is Way Too Short | jh05013 | 🤔 | 🤔 | ⬜️ | ✅ |
 | [27901](https://www.acmicpc.net/problem/27901) | 사면수와 삼현수 | jh05013 | 🤔 | ✅ | ⬜️ | ✅ |
 | [27900](https://www.acmicpc.net/problem/27900) | 4차 산업 혁명 2 | cozyyg | ✅ | ❌ | ✅ | ✅ |
+| [☕](https://www.acmicpc.net/problem/12346) | Proprietary Problem | shiftpsh | ✅ | ⬜️ | ✅ | ✅ |
 
 * ✅: 수정 요청이 있거나 수정이 필요한 상황이 있을 경우 검토 후 수정 진행.
 * 🤔: 특정 종류의 수정 요청에 대해서만 검토 후 수정 진행. (사유 후술)
@@ -62,7 +63,8 @@
 
 ### [27903](https://www.acmicpc.net/problem/27903). 인생
 
-- 후술할 사항이 없습니다.
+- 데이터
+  - 이 문제는 데이터가 없습니다.
 
 ### [27902](https://www.acmicpc.net/problem/27902). CVE: Life is Way Too Short
 
@@ -72,12 +74,12 @@
 - 데이터
   - 특정 조건에서 출력을 하지 않아야 하는 점은 의도되었습니다.
 
-### [27901](https://www.acmicpc.net/problem/27901). 사면수와 삼현수
-
-- 지문
-  - 메갈루젼 언어로 작성된 부분은 출제자가 직접 검토해야 합니다.
-
 ### [27900](https://www.acmicpc.net/problem/27900). 4차 산업 혁명 2
 
 - 데이터
   - 지문에 테스트 케이스가 10개라고 명시되어 있으므로, 데이터 수정 및 추가 요청은 받지 않습니다.
+
+### [☕](https://www.acmicpc.net/problem/12346). Proprietary Problem
+
+- 데이터
+  - 이 문제는 데이터가 없습니다.
