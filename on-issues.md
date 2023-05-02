@@ -8,7 +8,7 @@
 | [27906](https://www.acmicpc.net/problem/27906) | 모자 퍼즐 | jh05013, cozyyg | ✅ | ✅ | ⬜️ | ✅ |
 | [27905](https://www.acmicpc.net/problem/27905) | Bækj00n Online RPG | kipa00 | 🤔 | ❌ | ⬜️ | ❌ |
 | [27904](https://www.acmicpc.net/problem/27904) | 키파-틱택토 | kipa00 | ✅ | ✅ | ✅ | ✅ |
-| [27903](https://www.acmicpc.net/problem/27903) | 인생 | havana723 | 🤔 | ❌ | ✅ | ✅ |
+| [27903](https://www.acmicpc.net/problem/27903) | 인생 | havana723 | ✅ | ⬜️ | ✅ | ✅ |
 | [27902](https://www.acmicpc.net/problem/27902) | CVE: Life is Way Too Short | jh05013 | 🤔 | 🤔 | ⬜️ | ✅ |
 | [27901](https://www.acmicpc.net/problem/27901) | 사면수와 삼현수 | jh05013 | 🤔 | ✅ | ⬜️ | ✅ |
 | [27900](https://www.acmicpc.net/problem/27900) | 4차 산업 혁명 2 | cozyyg | ✅ | ❌ | ✅ | ✅ |
@@ -61,6 +61,8 @@
   - 데이터가 추가/변경/삭제되거나, 스페셜 저지가 변경될 경우 재채점을 진행합니다.
 
 ### [27903](https://www.acmicpc.net/problem/27903). 인생
+
+- 후술할 사항이 없습니다.
 
 ### [27902](https://www.acmicpc.net/problem/27902). CVE: Life is Way Too Short
 
